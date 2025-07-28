@@ -1,4 +1,3 @@
-
 import pytest
 
 from src.vacancy import Vacancy
@@ -10,7 +9,8 @@ def first_vacancy():
         name="Web-программист",
         link="www.hh.ru/123",
         description="программа",
-        salary={"from": 100000, "to": 100000, "currency": "RUR", "gross": True},
+        salary={"from": 100000, "to": 100000,
+                "currency": "RUR", "gross": True},
     )
 
 
@@ -20,13 +20,18 @@ def second_vacancy():
         name="Секретарь",
         link="www.hh.ru/321",
         description="печать",
-        salary={"from": None, "to": 50000, "currency": "RUR", "gross": True},
+        salary={
+            "from": None, "to": 50000, "currency": "RUR", "gross": True
+                },
     )
 
 
 @pytest.fixture
 def vacancy_without_salary():
-    return Vacancy(name="Секретарь", link="www.hh.ru/321", description="печать", salary=None)
+    return Vacancy(
+        name="Секретарь", link="www.hh.ru/321",
+        description="печать", salary=None
+    )
 
 
 @pytest.fixture

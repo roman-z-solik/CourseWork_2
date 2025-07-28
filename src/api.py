@@ -25,7 +25,6 @@ class HHApi(AbstractApi):
         self.__url = "https://api.hh.ru/vacancies"
         self.__params = {"page": page, "per_page": 30}
 
-
     def _connect(self, text):
         """Метод создания и отправки запроса"""
         self.__params["text"] = text
@@ -33,8 +32,7 @@ class HHApi(AbstractApi):
         if response.status_code == 200:
             return response
         else:
-            print("Ошибка подключения к сервису")
-
+            print(f"Ошибка {response} подключения к сервису")
 
     def get_vacancies(self, text):
         """Метод получения вакансий из запроса в формате JSON"""

@@ -37,4 +37,7 @@ class Vacancy:
 
     def __str__(self):
         """Магический метод отображения информации о вакансии"""
-        return f"Вакансия: {self.name}. Ссылка: {self.link}. Зарплата: {self.salary_middle}. Описание: {self.desc}."
+        return (
+            f"Вакансия: {self.name}. Ссылка: {self.link}. "
+            f"Зарплата: {self.salary_middle}. Описание: {self.desc}."
+        )

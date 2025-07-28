@@ -2,7 +2,7 @@ from src.vacancy import Vacancy
 
 
 def top_vacancies(vacancies: list[Vacancy], top=5):
-    """Функция сортировки по зарплате и вывода топа 5 вакансий"""
+    """Функция сортировки по зарплате и вывода топ 5 (по умолчанию) вакансий"""
 
     return sorted(vacancies, reverse=True)[:top]
 

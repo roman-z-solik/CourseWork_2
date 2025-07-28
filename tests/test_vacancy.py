@@ -22,5 +22,6 @@ def test_comparison_vacations(first_vacancy, second_vacancy):
 
 def test_print_vacation(first_vacancy):
     assert str(first_vacancy) == (
-        "Вакансия: Web-программист. Ссылка: " "www.hh.ru/123. Зарплата: 100000.0. Описание: программа."
+        "Вакансия: Web-программист. Ссылка: "
+        "www.hh.ru/123. Зарплата: 100000.0. Описание: программа."
     )

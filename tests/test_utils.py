@@ -1,9 +1,11 @@
-
 from src.utils import print_vacancies, top_vacancies
 
 
 def test_top_vacancies(first_vacancy, second_vacancy):
-    assert top_vacancies([second_vacancy, first_vacancy]) == [first_vacancy, second_vacancy]
+    assert top_vacancies([second_vacancy, first_vacancy]) == [
+        first_vacancy,
+        second_vacancy,
+    ]
 
 
 def test_print_vacancies(capsys, first_vacancy, second_vacancy):
