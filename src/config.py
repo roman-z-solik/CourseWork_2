@@ -1,4 +1,4 @@
 from pathlib import Path
 
-BASE_DIR = Path(__file__).parent.parent
-PATH_VACATIONS_JSON = BASE_DIR / "data" / "vacancies.json"
+root_dir = Path(__file__).parent.parent
+path_json = root_dir / "data" / "vacancies.json"

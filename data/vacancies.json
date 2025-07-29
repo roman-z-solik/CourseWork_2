@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123389784",
+        "salary": null,
+        "description": "Законченное высшее техническое образование. Уверенное знание базового стека: React (с хуками), js, ts, css, html, git. Опыт работы с картографией. "
+    },
+    {
+        "name": "Программист",
+        "link": "https://hh.ru/vacancy/123309801",
+        "salary": {
+            "from": 1500,
+            "to": 2000,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Опыт: от 2 лет опыта в веб‑разработке, в том числе в создании или сопровождении e‑commerce проектов."
+    },
+    {
+        "name": "Frontend-разработчик (Vue.js / React.js)",
+        "link": "https://hh.ru/vacancy/123374530",
+        "salary": {
+            "from": null,
+            "to": 10000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "description": "Опыт работы frontend-<highlighttext>разработчиком</highlighttext> от 3 лет. Участие минимум в 10 backend-проектах. Отличное знание грамматики русского и узбекского языков. "
+    },
+    {
+        "name": "Middle Frontend разработчик",
+        "link": "https://hh.ru/vacancy/123382604",
+        "salary": null,
+        "description": "Верстка по современным стандартам (HTML5, CSS3, SCSS). Опыт frontend-разработки от 2 лет. Уверенное знание JavaScript (ES6..."
+    },
+    {
+        "name": "Senior Java Developer (виртуальный помощник)",
+        "link": "https://hh.ru/vacancy/122528581",
+        "salary": null,
+        "description": "Глубокие знания и значительный опыт разработки (от 3-х лет) на языке программирования Java и его экосистемы. Опыт построения горизонтально..."
+    },
+    {
+        "name": "Frontend-разработчик middle/senior",
+        "link": "https://hh.ru/vacancy/123387572",
+        "salary": {
+            "from": null,
+            "to": 30000000,
+            "currency": "UZS",
+            "gross": true
+        },
+        "description": "Основной фреймворк: Vue.js 2/3 (Options API / Composition API). Будет плюсом: React.js (для небольших компонентов и будущих проектов). "
+    },
+    {
+        "name": "Разработчик frontend",
+        "link": "https://hh.ru/vacancy/123387335",
+        "salary": null,
+        "description": "Опыт разработки на React от 3 лет. Уверенные знания TypeScript, работа с типами, интерфейсами, дженериками. Опыт работы с Яндекс.Карты API..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123329839",
+        "salary": {
+            "from": 130000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Ключевые навыки и знания: - Глубокое понимание нативного JavaScript (ES6+). - Опыт разработки на React.js (предпочтительно свежие версии). - "
+    },
+    {
+        "name": "Middle Backend разработчик",
+        "link": "https://hh.ru/vacancy/123350541",
+        "salary": null,
+        "description": "опыт разработки на Python от 2–3 лет, уверенное знание языка и его экосистемы. - уверенное владение Django, Django Rest Framework..."
+    },
+    {
+        "name": "Java разработчик / Backend Java Developer (Middle)",
+        "link": "https://hh.ru/vacancy/122952090",
+        "salary": {
+            "from": 170000,
+            "to": 300000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Опыт коммерческой разработки от 3 лет. Уверенное владение стеком (Java 17, Spring Boot 3+, Hibernate, Liquibase). Готовность разбираться с..."
+    },
+    {
+        "name": "Middle/Senior Frontend developer (react/redux)",
+        "link": "https://hh.ru/vacancy/123383460",
+        "salary": null,
+        "description": "Отличное знание JavaScript, HTML/CSS. Опыт работы с любым современным JavaScript стеком React. Опыт работы в команде."
+    },
+    {
+        "name": "Frontend Разработчик",
+        "link": "https://hh.ru/vacancy/123384244",
+        "salary": {
+            "from": 8000000,
+            "to": 12000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "description": "Опыт работы frontend-<highlighttext>разработчиком</highlighttext> от 2 лет. Уверенное знание HTML, CSS, JavaScript (ES6+), Bootstrap. Опыт работы с Angular.js. "
+    },
+    {
+        "name": "Старший React разработчик",
+        "link": "https://hh.ru/vacancy/123384115",
+        "salary": null,
+        "description": "Высшее техническое образование. Опыт разработки на ReactJS от 3-х лет. Знание JavaScript, TypeScript, HTML5, CSS3 (SCSS). "
+    },
+    {
+        "name": "Frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123274563",
+        "salary": null,
+        "description": "Знание Git, Gitlab, Docker, Gitlab CI/CD."
+    },
+    {
+        "name": "Разработчик C#",
+        "link": "https://hh.ru/vacancy/123352319",
+        "salary": null,
+        "description": "Высшее техническое образование. Опыт работы: от 3-х лет в коммерческой разработке с использованием C#. Опыт создания клиентских приложений с..."
+    },
+    {
+        "name": "JS-разработчик",
+        "link": "https://hh.ru/vacancy/123364181",
+        "salary": null,
+        "description": "React (18.3.1) – опыт работы с библиотекой React, знание новых возможностей 18 версии. TypeScript (5.2.2) – уверенная работа..."
+    },
+    {
+        "name": "Middle+/Senior JavaScript Frontend разработчик",
+        "link": "https://hh.ru/vacancy/123387876",
+        "salary": {
+            "from": 22000000,
+            "to": 32000000,
+            "currency": "UZS",
+            "gross": false
+        },
+        "description": "3+ года коммерческого опыта разработки на JavaScript/TypeScript. Глубокие знания React.js, Redux/Context API, React Router. Опыт работы с..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123111905",
+        "salary": {
+            "from": 1000,
+            "to": null,
+            "currency": "USD",
+            "gross": false
+        },
+        "description": "Опыт работы с JavaScript (от 2-х лет). Опыт работы с VueJS, NodeJS. Хорошее знание сопутствующих технологий HTML5, CSS..."
+    },
+    {
+        "name": "Frontend developer / Фронтенд-разработчик",
+        "link": "https://hh.ru/vacancy/123343033",
+        "salary": null,
+        "description": "Опыт коммерческой разработки на Angular от 3х лет. Опыт работы с микросервисной архитектурой. Знание RxJS, NgRX. Опыт работы с..."
+    },
+    {
+        "name": "Frontend-разработчик (React, Typescript)",
+        "link": "https://hh.ru/vacancy/123325973",
+        "salary": {
+            "from": 80000,
+            "to": 140000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "description": "Глубокое знание React.js (TypeScript): понимание концепций компонентов, хуков, контекста, управления состоянием. Умение работать с Git. Понимание принципов ООП и SOLID. "
+    },
+    {
+        "name": "Frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123355008",
+        "salary": {
+            "from": 150000,
+            "to": 230000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Глубокое знание JavaScript, HTML, CSS — свободно ориентироваться в этих технологиях и уметь писать качественный и оптимизированный код. Уверенное владение TypeScript..."
+    },
+    {
+        "name": "Frontend-разработчик (в г. Казань)",
+        "link": "https://hh.ru/vacancy/123359979",
+        "salary": null,
+        "description": "Опыт работы с Vue.js и Nuxt.js от 1 года. Уверенное знание JavaScript (ES6+), HTML5, CSS3. "
+    },
+    {
+        "name": "Фронтенд разработчик (frontend developer, middle)",
+        "link": "https://hh.ru/vacancy/123369122",
+        "salary": null,
+        "description": "Опыт разработки от 1,5-2 лет. Опыт разработки на любом JS фреймворке от 2-х лет. Знание React/React..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123385159",
+        "salary": null,
+        "description": "Уверенные знания HTML, CSS, Javascript. Опыт работы с Vue.js + Nuxt и Node.js (используется для SSR). Опыт работы с Typescript. "
+    },
+    {
+        "name": "Java-разработчик",
+        "link": "https://hh.ru/vacancy/123355437",
+        "salary": {
+            "from": 700000,
+            "to": 1100000,
+            "currency": "KZT",
+            "gross": false
+        },
+        "description": "Java 8, Java 17, Spring boot, Java EE, JSF, REST, MariaDB, MySQL, Git."
+    },
+    {
+        "name": "Java-разработчик",
+        "link": "https://hh.ru/vacancy/123363353",
+        "salary": null,
+        "description": "Опыт работы с Java 11+ от 3 лет. Опыт работы со Spring, Spring Boot. Опыт работы с микросервисной архитектурой. "
+    },
+    {
+        "name": "Frontend разработчик (стажер)",
+        "link": "https://hh.ru/vacancy/123363565",
+        "salary": null,
+        "description": "Уверенное владение React и TypeScript. Опыт работы с Redux Toolkit и RTK Query. Опыт работы с CSS Modules, SASS. "
+    },
+    {
+        "name": "Senior frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123383980",
+        "salary": null,
+        "description": "Высшее техническое образование. Уверенные знания и опыт разработки с использованием: TypeScript, React, Nodejs, WebSocket, Gitlab, HTML5, CSS3, Docker..."
+    },
+    {
+        "name": "Frontend-разработчик",
+        "link": "https://hh.ru/vacancy/123352148",
+        "salary": null,
+        "description": "Опыт коммерческой разработки от 1.5 года на позициях frontend-<highlighttext>разработчика</highlighttext>. Отличное знание JavaScript (ES6+), понимание современных стандартов. "
+    },
+    {
+        "name": "React Разработчик",
+        "link": "https://hh.ru/vacancy/123350873",
+        "salary": {
+            "from": 70000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "description": "Сверстать два типа слайда - задача и теория. Использовать React + Tailwind CSS. Структура проекта должна быть чистой и логичной. "
+    }
+]

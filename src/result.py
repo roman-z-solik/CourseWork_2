@@ -1,7 +1,7 @@
 import json
 from abc import ABC, abstractmethod
 
-from src.config import PATH_VACATIONS_JSON
+from src.config import path_json
 from src.vacancy import Vacancy
 
 
@@ -27,7 +27,7 @@ class AbstractJson(ABC):
 class JSONSaver(AbstractJson):
     """Класс для сохранения информации о вакансиях в JSON-файл"""
 
-    def __init__(self, filename=PATH_VACATIONS_JSON):
+    def __init__(self, filename=path_json):
         """Метод для инициализации класса JSONSaver"""
         self.__filename = filename
 
